@@ -1,2 +1,10 @@
-# instagram-follower-checker
-A Python program that accepts two files and finds which Instagram account is not following you that you are following.
+# Instagram Follower Checker
+A Python program that compares your Instagram followers and following lists to identify users you follow who don't follow you back.
+
+## Building and Running
+1. 
+2. 
+3. 
+
+## Credits
+Developed by Arham Islam.

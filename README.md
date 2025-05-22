@@ -43,4 +43,4 @@ A tool to compare your Instagram followers and following lists to identify non-m
 - This project is for personal use only. Use at your discretion as it may violate Instagram laws.
 
 ## Credits
-Developed by [Arham Islam](https://github.com/arhamislam) on May XX, 2025.
+Developed by [@arhamislam](https://github.com/arhamislam) on May XX, 2025.

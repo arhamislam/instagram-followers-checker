@@ -1,15 +1,14 @@
 # MutualCheck: Instagram Followers Checker
-
 A tool to compare your Instagram followers and following lists to identify non-mutual connections.
 
 ## Building and Running
 1. Install Python
     - Go to [python.org](https://www.python.org/) and download the latest version of Python
-    - During installation, check **Add python.exe to PATH**, then select **Install Now** to get pip (Python's package installer)
+    - During installation, check **Add python.exe to PATH**, then select **Install Now** to get pip (package installer for Python)
     - After installation. check if Python and pip are installed:
-        -   ```bash
-            python --version
-            ```
+        ```bash
+        python --version
+        ```
         ```bash
         pip --version
         ```
@@ -25,23 +24,22 @@ A tool to compare your Instagram followers and following lists to identify non-m
     - Navigate to the extracted folder:
         - On Windows: `cd path\to\your\folder`
         - On Linux/MacOS: `cd path/to/your/folder`
-    - Copy the `.env.example` file to `.env`:
-    ```bash
-    cp .env.example .env
-    ```
+    - Copy `.env.example` to `.env`:
+        ```bash
+        cp .env.example .env
+        ```
     - Open `.env` and fill in your Instagram credentials by replacing the placeholder values, then save the file
 4. Install Dependecies
-    - In your terminal, run:
     ```bash
     pip install -r requirements.txt
     ```
-5. Run:
+5. Run
     ```bash
     python main.py
     ```
 
 ## Notes
-- Never share your .env file or commit to version control
+- Never share your `.env` file or commit to version control
 - This project is for personal use only. Use at your discretion as it may violate Instagram laws.
 
 ## Credits

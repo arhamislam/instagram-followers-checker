@@ -6,10 +6,10 @@ A tool to compare your Instagram followers and following lists to identify non-m
     - Go to [python.org](https://www.python.org/) and download the latest version of Python
     - During installation, check **Add python.exe to PATH**, then select **Install Now** to get pip (Python's package installer)
     - After installation, verify that Python and pip are installed by running:
-    ```bash
-    python --version
-    pip --version
-    ```
+        ```bash
+        python --version
+        pip --version
+        ```
 
 2. **Download MutualCheck**
     - If you are not already on the repository page, go to the [GitHub Repository Page](https://github.com/arhamislam/mutual-check)
@@ -36,5 +36,4 @@ A tool to compare your Instagram followers and following lists to identify non-m
 - This project is for personal use only. Use responsibly and be aware that automating Instagram may violate their Terms of Service
 
 ## Credits
-Developed by [@arhamislam](https://github.com/arhamislam)
-May XX, 2025
+Developed by [@arhamislam](https://github.com/arhamislam) on May XX, 2025.
